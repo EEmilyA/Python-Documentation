@@ -45,3 +45,20 @@ This project leverages predictive analytics to drive strategic business decision
 1. United Kingdom:18,019.
 2. Germany: 457.
 3. France: 392.
+
+## Dashboard and Visualizations
+![Top selling products](https://github.com/user-attachments/assets/156264cd-bfad-410c-88ae-1ec2ac56eaad)
+![Top revenue generating products](https://github.com/user-attachments/assets/f803ecb5-62b5-450f-8f75-e4906a20c327)
+![Top countries](https://github.com/user-attachments/assets/1cd31653-4bd3-4379-bccb-854b4e9be839)
+![Sales trend](https://github.com/user-attachments/assets/ef6458c1-5db6-4980-ae9c-1043f359e9bc)
+![Sales forecast](https://github.com/user-attachments/assets/4c45021f-61d9-47ee-a662-46cb211b5195)
+
+## Recommendations
+- Inventory Optimization: Given the steady growth in sales, businesses should ensure sufficient stock levels to meet demand, particularly in February, which sees a slight peak.
+- Pricing Strategy: UnitPrice has the highest impact on high spenders. Businesses should experiment with pricing strategies to maximize revenue without discouraging purchases.
+- Geographical Expansion: The UK dominates in transactions and revenue, but potential growth opportunities exist in Germany and France.
+- Targeted Promotions: Customers with high AvgSpendPerPurchase and frequent transactions should be targeted for loyalty programs and exclusive offers.
+- Product Strategy: High revenue-generating products should be prioritized in marketing and inventory planning.
+- Seasonal Adjustments: Peak sales months (Nov-Dec) should be leveraged with promotional campaigns to maximize revenue.
+## Conclusions
+This project provides actionable insights into customer behavior, sales forecasting, and revenue generation. The predictive models help businesses make data-driven decisions, optimize inventory, and enhance customer engagement.
